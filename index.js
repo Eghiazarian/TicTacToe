@@ -30,7 +30,7 @@ function addActions(){
     startBtn.onclick = () => startNewGame()
 }
 addActions()
-
+// this is Comment
 
 function renderBoard() {
     let gameBoard = document.getElementById('board')
